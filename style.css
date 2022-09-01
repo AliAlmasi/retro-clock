@@ -96,9 +96,9 @@ body {
 
 .hrs, .mins, .secs {
     margin-top : -6px;
-    font-family : Sans-Serif;
+    font-family : serif;
     font-style : italic;
-    font-weight : 300;
+    font-weight : lighter;
     font-size : 1.7em;
     user-select : none;
     color : transparent;
